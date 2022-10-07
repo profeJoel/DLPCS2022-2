@@ -1,0 +1,15 @@
+C:\Users\joelm\source\repos\EjemploWhile\bin\Debug\net6.0\EjemploWhile.exe
+C:\Users\joelm\source\repos\EjemploWhile\bin\Debug\net6.0\EjemploWhile.deps.json
+C:\Users\joelm\source\repos\EjemploWhile\bin\Debug\net6.0\EjemploWhile.runtimeconfig.json
+C:\Users\joelm\source\repos\EjemploWhile\bin\Debug\net6.0\EjemploWhile.dll
+C:\Users\joelm\source\repos\EjemploWhile\bin\Debug\net6.0\EjemploWhile.pdb
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.AssemblyInfoInputs.cache
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.AssemblyInfo.cs
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.dll
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\refint\EjemploWhile.dll
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.pdb
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\EjemploWhile.genruntimeconfig.cache
+C:\Users\joelm\source\repos\EjemploWhile\obj\Debug\net6.0\ref\EjemploWhile.dll

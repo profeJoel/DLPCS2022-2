@@ -1,0 +1,15 @@
+C:\Users\joelm\source\repos\ejemplo1_NET6\bin\Debug\net6.0\ejemplo1_NET6.exe
+C:\Users\joelm\source\repos\ejemplo1_NET6\bin\Debug\net6.0\ejemplo1_NET6.deps.json
+C:\Users\joelm\source\repos\ejemplo1_NET6\bin\Debug\net6.0\ejemplo1_NET6.runtimeconfig.json
+C:\Users\joelm\source\repos\ejemplo1_NET6\bin\Debug\net6.0\ejemplo1_NET6.dll
+C:\Users\joelm\source\repos\ejemplo1_NET6\bin\Debug\net6.0\ejemplo1_NET6.pdb
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.AssemblyInfoInputs.cache
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.AssemblyInfo.cs
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.dll
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\refint\ejemplo1_NET6.dll
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.pdb
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ejemplo1_NET6.genruntimeconfig.cache
+C:\Users\joelm\source\repos\ejemplo1_NET6\obj\Debug\net6.0\ref\ejemplo1_NET6.dll

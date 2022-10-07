@@ -1,0 +1,15 @@
+C:\Users\joelm\source\repos\arreglos\bin\Debug\net6.0\arreglos.exe
+C:\Users\joelm\source\repos\arreglos\bin\Debug\net6.0\arreglos.deps.json
+C:\Users\joelm\source\repos\arreglos\bin\Debug\net6.0\arreglos.runtimeconfig.json
+C:\Users\joelm\source\repos\arreglos\bin\Debug\net6.0\arreglos.dll
+C:\Users\joelm\source\repos\arreglos\bin\Debug\net6.0\arreglos.pdb
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfoInputs.cache
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfo.cs
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.dll
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\refint\arreglos.dll
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.pdb
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\arreglos.genruntimeconfig.cache
+C:\Users\joelm\source\repos\arreglos\obj\Debug\net6.0\ref\arreglos.dll

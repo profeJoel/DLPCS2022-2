@@ -1,0 +1,15 @@
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\bin\Debug\net6.0\EjemploGatos.exe
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\bin\Debug\net6.0\EjemploGatos.deps.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\bin\Debug\net6.0\EjemploGatos.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\bin\Debug\net6.0\EjemploGatos.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\bin\Debug\net6.0\EjemploGatos.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.csproj.AssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\refint\EjemploGatos.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\EjemploGatos.genruntimeconfig.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 3\EjemploGatos\obj\Debug\net6.0\ref\EjemploGatos.dll

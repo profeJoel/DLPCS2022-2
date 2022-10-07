@@ -1,0 +1,15 @@
+C:\Users\joelm\source\repos\FuncionHolaMundo\bin\Debug\net6.0\FuncionHolaMundo.exe
+C:\Users\joelm\source\repos\FuncionHolaMundo\bin\Debug\net6.0\FuncionHolaMundo.deps.json
+C:\Users\joelm\source\repos\FuncionHolaMundo\bin\Debug\net6.0\FuncionHolaMundo.runtimeconfig.json
+C:\Users\joelm\source\repos\FuncionHolaMundo\bin\Debug\net6.0\FuncionHolaMundo.dll
+C:\Users\joelm\source\repos\FuncionHolaMundo\bin\Debug\net6.0\FuncionHolaMundo.pdb
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.AssemblyInfoInputs.cache
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.AssemblyInfo.cs
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.dll
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\refint\FuncionHolaMundo.dll
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.pdb
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\FuncionHolaMundo.genruntimeconfig.cache
+C:\Users\joelm\source\repos\FuncionHolaMundo\obj\Debug\net6.0\ref\FuncionHolaMundo.dll
