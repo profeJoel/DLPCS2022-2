@@ -1,0 +1,15 @@
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\bin\Debug\net6.0\EjemploExcepciones.exe
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\bin\Debug\net6.0\EjemploExcepciones.deps.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\bin\Debug\net6.0\EjemploExcepciones.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\bin\Debug\net6.0\EjemploExcepciones.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\bin\Debug\net6.0\EjemploExcepciones.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.csproj.AssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\refint\EjemploExcepciones.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\EjemploExcepciones.genruntimeconfig.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Clase 4\EjemploExcepciones\obj\Debug\net6.0\ref\EjemploExcepciones.dll
