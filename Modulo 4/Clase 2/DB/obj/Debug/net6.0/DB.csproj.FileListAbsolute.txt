@@ -1,0 +1,14 @@
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\bin\Debug\net6.0\DB.deps.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\bin\Debug\net6.0\DB.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\bin\Debug\net6.0\DB.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\refint\DB.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\DB\obj\Debug\net6.0\ref\DB.dll
