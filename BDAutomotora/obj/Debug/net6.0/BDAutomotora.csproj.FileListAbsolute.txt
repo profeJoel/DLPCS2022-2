@@ -1,0 +1,14 @@
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\bin\Debug\net6.0\BDAutomotora.deps.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\bin\Debug\net6.0\BDAutomotora.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\bin\Debug\net6.0\BDAutomotora.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\bin\Debug\net6.0\BDAutomotora.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.csproj.AssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\refint\BDAutomotora.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\BDAutomotora.genruntimeconfig.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\BDAutomotora\obj\Debug\net6.0\ref\BDAutomotora.dll

@@ -1,0 +1,14 @@
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\bin\Debug\net6.0\BDContactos.deps.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\bin\Debug\net6.0\BDContactos.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\bin\Debug\net6.0\BDContactos.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\bin\Debug\net6.0\BDContactos.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.csproj.AssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\refint\BDContactos.dll
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.pdb
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\BDContactos.genruntimeconfig.cache
+C:\Users\joelm\Desktop\respaldo\Ulagos\2022\2022-2\DLPCS\DLPCS2022-2\Modulo 4\Clase 3\BDContactos\obj\Debug\net6.0\ref\BDContactos.dll

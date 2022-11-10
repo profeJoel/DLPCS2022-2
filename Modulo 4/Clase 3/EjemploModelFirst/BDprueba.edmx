@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="BDprueba.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="BDpruebaStoreContainer">
+    <EntitySet Name="Estudiantes" EntityType="BDprueba.Store.Estudiantes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="AsignaturaSet" EntityType="BDprueba.Store.AsignaturaSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CursoSet" EntityType="BDprueba.Store.CursoSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="EstudianteCurso" Association="BDprueba.Store.EstudianteCurso">
+      <End Role="Estudiante" EntitySet="Estudiantes" />
+      <End Role="Curso" EntitySet="CursoSet" />
+    </AssociationSet>
+    <AssociationSet Name="AsignaturaCurso" Association="BDprueba.Store.AsignaturaCurso">
+      <End Role="Asignatura" EntitySet="AsignaturaSet" />
+      <End Role="Curso" EntitySet="CursoSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Estudiantes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AsignaturaSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CursoSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EstudianteId" Type="int" Nullable="false" />
+    <Property Name="AsignaturaId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="EstudianteCurso">
+    <End Role="Estudiante" Type="BDprueba.Store.Estudiantes" Multiplicity="1" />
+    <End Role="Curso" Type="BDprueba.Store.CursoSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estudiante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Curso">
+        <PropertyRef Name="EstudianteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AsignaturaCurso">
+    <End Role="Asignatura" Type="BDprueba.Store.AsignaturaSet" Multiplicity="1" />
+    <End Role="Curso" Type="BDprueba.Store.CursoSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Asignatura">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Curso">
+        <PropertyRef Name="AsignaturaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="BDprueba" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="BDpruebaContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Estudiantes" EntityType="BDprueba.Estudiante" />
+          <EntitySet Name="AsignaturaSet" EntityType="BDprueba.Asignatura" />
+          <EntitySet Name="CursoSet" EntityType="BDprueba.Curso" />
+          <AssociationSet Name="EstudianteCurso" Association="BDprueba.EstudianteCurso">
+            <End Role="Estudiante" EntitySet="Estudiantes" />
+            <End Role="Curso" EntitySet="CursoSet" />
+          </AssociationSet>
+          <AssociationSet Name="AsignaturaCurso" Association="BDprueba.AsignaturaCurso">
+            <End Role="Asignatura" EntitySet="AsignaturaSet" />
+            <End Role="Curso" EntitySet="CursoSet" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Estudiante">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" Nullable="false" />
+          <NavigationProperty Name="Curso" Relationship="BDprueba.EstudianteCurso" FromRole="Estudiante" ToRole="Curso" />
+        </EntityType>
+        <EntityType Name="Asignatura">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" Nullable="false" />
+          <NavigationProperty Name="Curso" Relationship="BDprueba.AsignaturaCurso" FromRole="Asignatura" ToRole="Curso" />
+        </EntityType>
+        <EntityType Name="Curso">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Estudiante" Relationship="BDprueba.EstudianteCurso" FromRole="Curso" ToRole="Estudiante" />
+          <Property Name="EstudianteId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Asignatura" Relationship="BDprueba.AsignaturaCurso" FromRole="Curso" ToRole="Asignatura" />
+          <Property Name="AsignaturaId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="EstudianteCurso">
+          <End Type="BDprueba.Estudiante" Role="Estudiante" Multiplicity="1" />
+          <End Type="BDprueba.Curso" Role="Curso" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Estudiante">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Curso">
+              <PropertyRef Name="EstudianteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="AsignaturaCurso">
+          <End Type="BDprueba.Asignatura" Role="Asignatura" Multiplicity="1" />
+          <End Type="BDprueba.Curso" Role="Curso" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Asignatura">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Curso">
+              <PropertyRef Name="AsignaturaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BDpruebaStoreContainer" CdmEntityContainer="BDpruebaContainer">
+    <EntitySetMapping Name="Estudiantes">
+      <EntityTypeMapping TypeName="IsTypeOf(BDprueba.Estudiante)">
+        <MappingFragment StoreEntitySet="Estudiantes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AsignaturaSet">
+      <EntityTypeMapping TypeName="IsTypeOf(BDprueba.Asignatura)">
+        <MappingFragment StoreEntitySet="AsignaturaSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CursoSet">
+      <EntityTypeMapping TypeName="IsTypeOf(BDprueba.Curso)">
+        <MappingFragment StoreEntitySet="CursoSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="EstudianteId" ColumnName="EstudianteId" />
+          <ScalarProperty Name="AsignaturaId" ColumnName="AsignaturaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
