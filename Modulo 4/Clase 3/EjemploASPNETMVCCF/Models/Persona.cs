@@ -11,6 +11,8 @@ namespace EjemploASPNETMVCCF.Models
 
         public string Apellido { get; set; }
 
+        public DateTime FechaNacimiento { get; set; }
+
         public string Domicilio { get; set; }
 
 

@@ -55,8 +55,6 @@ namespace EjemploASPNETMVCCF.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AsignaturaId");
-
                     b.HasIndex("PersonaId");
 
                     b.ToTable("Curso");
@@ -77,6 +75,9 @@ namespace EjemploASPNETMVCCF.Data.Migrations
                     b.Property<string>("Domicilio")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("FechaNacimiento")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
@@ -291,19 +292,11 @@ namespace EjemploASPNETMVCCF.Data.Migrations
 
             modelBuilder.Entity("EjemploASPNETMVCCF.Models.Curso", b =>
                 {
-                    b.HasOne("EjemploASPNETMVCCF.Models.Asignatura", "Asignatura")
-                        .WithMany("Curso")
-                        .HasForeignKey("AsignaturaId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("EjemploASPNETMVCCF.Models.Persona", "Persona")
-                        .WithMany("Curso")
+                        .WithMany()
                         .HasForeignKey("PersonaId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Asignatura");
 
                     b.Navigation("Persona");
                 });
@@ -357,16 +350,6 @@ namespace EjemploASPNETMVCCF.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("EjemploASPNETMVCCF.Models.Asignatura", b =>
-                {
-                    b.Navigation("Curso");
-                });
-
-            modelBuilder.Entity("EjemploASPNETMVCCF.Models.Persona", b =>
-                {
-                    b.Navigation("Curso");
                 });
 #pragma warning restore 612, 618
         }
