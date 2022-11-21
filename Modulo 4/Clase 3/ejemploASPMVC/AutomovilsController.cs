@@ -22,7 +22,9 @@ namespace ejemploASPMVC
         // GET: Automovils
         public async Task<IActionResult> Index()
         {
-              return View(await _context.Automovil.ToListAsync());
+            /*Modificación para acceder a dos modelos del proyecto: Automoviles y Marcas*/
+            ViewBag.listaMarcas = await _context.Marca.ToListAsync();
+            return View(await _context.Automovil.ToListAsync());
         }
 
         // GET: Automovils/Details/5

@@ -28,7 +28,13 @@
                 @Html.DisplayFor(modelItem => item.Modelo)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.MarcaId)
+                @foreach ( var marcaObject in ((IEnumerable<Marca>) ViewBag.listaMarcas))
+                    {
+                        if ( marcaObject.MarcaId == item.MarcaId)
+                        {
+                            @marcaObject.Nombre
+                        }
+                    }
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.AutomovilId">Edit</a> |
